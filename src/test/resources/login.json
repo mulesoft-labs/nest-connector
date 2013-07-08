@@ -1,0 +1,11 @@
+{"is_superuser":false, "is_staff":false, "urls":{
+    "transport_url":"https://transport05.transport.nest.com:443",
+    "rubyapi_url":"https://home.nest.com/",
+    "weather_url":"http://www.wunderground.com/auto/nestlabs/geo/current/i?query=",
+    "log_upload_url":"https://devices.nest.com/upload/user",
+    "support_url":"https://nest.secure.force.com/support/webapp?"
+}, "limits":{
+    "thermostats_per_structure":10,
+    "structures":2,
+    "thermostats":10
+}, "access_token":"ai41MjFjNWNlNWI2NjUyNWY4MmQ0NmIwYjQ4YjhkZDkxMjZlNjlhMzM4OTFhZjdiNjJlMzZlYjAxMjc4MDU5NDA3ODY2YTFjNmViMmFlMmY2OTJiYjNkOWMxMjNkOGMzZGE0MmViNmM2NA==", "userid":"170773", "expires_in":"Sat, 03-Aug-2013 23:58:00 GMT", "email":"me@rossmason.com", "user":"user.170773"}
